@@ -1,15 +1,62 @@
 title:Rick's Weapons Trashlist
 description:Weapons to destroy on sight.
 
+//Arc Logic
+dimwishlist:item=-38064944&perks=
+
+//Come to Pass
+dimwishlist:item=-927567426&perks=
 
 //DEADHORSE 04
 dimwishlist:item=-822872238&perks=
 
+//Dream Breaker
+dimwishlist:item=-219610523&perks=
+
+//Duty Bound
+dimwishlist:item=-260532765&perks=
+
+//Empirical Evidence
+dimwishlist:item=-2607304614&perks=
+
+//Fel Taradiddle
+dimwishlist:item=-1399109800&perks=
+
+//A Fine Memorial
+dimwishlist:item=-3211332727&perks=
+
+//Main Ingredient
+dimwishlist:item=-4046741099&perks=
+
+//Marsilion-C
+dimwishlist:item=-867154247&perks=
+
+//Nox Perennial V
+dimwishlist:item=-2366022261&perks=
+
 //Perfect Paradox
 dimwishlist:item=-4108648762&perks=
+
+//Pointed Inquiry
+dimwishlist:item=-297296830&perks=
 
 //Reckless Endangerment
 dimwishlist:item=-3085559077&perks=
 
+//Round Robin
+dimwishlist:item=-2034215657&perks=
 
+//Subzero Salvo
+dimwishlist:item=-978122008&perks=
 
+//Tarnation
+dimwishlist:item=-2721157927&perks=
+
+//Tatara Gaze
+dimwishlist:item=-2531614757&perks=
+
+//Tempered Dynamo
+dimwishlist:item=-2274706510&perks=
+
+//Tranquility
+dimwishlist:item=-846241148&perks=
