@@ -4,11 +4,11 @@ description:Armor to destroy on sight.
 
 //Crystocrene
 //notes:Source: Europa
-dimwishlist:item=-492357704&perks=
-dimwishlist:item=-4134659289&perks=
-dimwishlist:item=-2893611839&perks=
-dimwishlist:item=-2731877579&perks=
-dimwishlist:item=-4140770382&perks=
+dimwishlist:item=-492357704
+dimwishlist:item=-4134659289
+dimwishlist:item=-2893611839
+dimwishlist:item=-2731877579
+dimwishlist:item=-4140770382
 
 //Veritas
 //notes:Source: Throne World + Throne World Engrams
