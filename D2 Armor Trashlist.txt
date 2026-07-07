@@ -1,0 +1,28 @@
+title:Rick's Trashlist
+description:Armor to destroy on sight.
+
+
+//Crystocrene
+//notes:Source: Europa
+dimwishlist:item=-492357704&perks=
+dimwishlist:item=-4134659289&perks=
+dimwishlist:item=-2893611839&perks=
+dimwishlist:item=-2731877579&perks=
+dimwishlist:item=-4140770382&perks=
+
+//Veritas
+//notes:Source: Throne World + Throne World Engrams
+dimwishlist:item=-1297433145&perks=
+dimwishlist:item=-1193572528&perks=
+dimwishlist:item=-905917400&perks=
+dimwishlist:item=-1552207754&perks=
+dimwishlist:item=-4020836597&perks=
+
+//Wildwood
+//notes:Source: European Dead Zone
+dimwishlist:item=-2478852409&perks=
+dimwishlist:item=-2374991792&perks=
+dimwishlist:item=-276510936&perks=
+dimwishlist:item=-2733627018&perks=
+//dimwishlist:item=-classitem&perks=
+

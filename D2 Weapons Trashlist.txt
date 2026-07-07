@@ -1,0 +1,15 @@
+title:Rick's Weapons Trashlist
+description:Weapons to destroy on sight.
+
+
+//DEADHORSE 04
+dimwishlist:item=-822872238&perks=
+
+//Perfect Paradox
+dimwishlist:item=-4108648762&perks=
+
+//Reckless Endangerment
+dimwishlist:item=-3085559077&perks=
+
+
+
