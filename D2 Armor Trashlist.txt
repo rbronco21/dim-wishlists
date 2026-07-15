@@ -3,12 +3,12 @@ description:Armor to destroy on sight.
 
 
 //Crystocrene
-//notes:Source: Europa
-dimwishlist:item=-492357704
-dimwishlist:item=-4134659289
-dimwishlist:item=-2893611839
-dimwishlist:item=-2731877579
-dimwishlist:item=-4140770382
+//notes:Source: Europa, use 2 piece bonus with Exodus Down for orbs
+//dimwishlist:item=-492357704
+//dimwishlist:item=-4134659289
+//dimwishlist:item=-2893611839
+//dimwishlist:item=-2731877579
+//dimwishlist:item=-4140770382
 
 //Veritas
 //notes:Source: Throne World + Throne World Engrams
