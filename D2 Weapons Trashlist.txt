@@ -4,6 +4,12 @@ description:Weapons to destroy on sight.
 //Arc Logic
 dimwishlist:item=-38064944&perks=
 
+//Bonechiller
+dimwishlist:item=-1529367715&perks=
+
+//BxR-55 Battler
+dimwishlist:item=-2708806099&perks=
+
 //Come to Pass
 dimwishlist:item=-927567426&perks=
 
@@ -25,14 +31,38 @@ dimwishlist:item=-1399109800&perks=
 //A Fine Memorial
 dimwishlist:item=-3211332727&perks=
 
+//Forensic Nightmare
+dimwishlist:item=-1526296434&perks=
+
+//Fractethyst
+dimwishlist:item=-3184681056&perks=
+
+//Half-Truths
+dimwishlist:item=-3257091166&perks=
+
+//Inbound Surveillance
+dimwishlist:item=-2776506837&perks=
+
+//Last Rite
+dimwishlist:item=-3708636616&perks=
+
+//Loud Lullaby
+dimwishlist:item=-868076517&perks=
+
 //Main Ingredient
 dimwishlist:item=-4046741099&perks=
 
 //Marsilion-C
 dimwishlist:item=-867154247&perks=
 
+//Nameless Midnight
+dimwishlist:item=-1957301533&perks=
+
 //Nox Perennial V
 dimwishlist:item=-2366022261&perks=
+
+//Pardon Our Dust
+dimwishlist:item=-3849810018&perks=
 
 //Perfect Paradox
 dimwishlist:item=-4108648762&perks=
@@ -43,11 +73,32 @@ dimwishlist:item=-297296830&perks=
 //Reckless Endangerment
 dimwishlist:item=-3085559077&perks=
 
+//Red Tape
+dimwishlist:item=-736362511&perks=
+
+//Resounding
+dimwishlist:item=-3273807888&perks=
+
+//Retold Tale
+dimwishlist:item=-3442151842&perks=
+
 //Round Robin
 dimwishlist:item=-2034215657&perks=
 
+//Sleepless
+dimwishlist:item=-1738552769&perks=
+
+//Sorrow's Verse
+dimwishlist:item=-775830132&perks=
+
+//Steelfeather Repeater
+dimwishlist:item=-771811870&perks=
+
 //Subzero Salvo
 dimwishlist:item=-978122008&perks=
+
+//Synchronic Roulette
+dimwishlist:item=-3752860091&perks=
 
 //Tarnation
 dimwishlist:item=-2721157927&perks=
@@ -60,3 +111,9 @@ dimwishlist:item=-2274706510&perks=
 
 //Tranquility
 dimwishlist:item=-846241148&perks=
+
+//Trendsetter
+dimwishlist:item=-2863808104&perks=
+
+//Wolftone Draw
+dimwishlist:item=-3472875143&perks=
