@@ -1,8 +1,23 @@
 title:Rick's Weapons Trashlist
 description:Weapons to destroy on sight.
 
+//Afterlight
+dimwishlist:item=-1834313033&perks=
+
+//ALLEN 05
+dimwishlist:item=-423677697&perks=
+
 //Arc Logic
 dimwishlist:item=-38064944&perks=
+
+//Arsenic Bite-4b
+dimwishlist:item=-720351795&perks=
+
+//Aurora Dawn
+dimwishlist:item=-2111625436&perks=
+
+//Blasphemer
+dimwishlist:item=-2527058297&perks=
 
 //Bonechiller
 dimwishlist:item=-1529367715&perks=
@@ -12,6 +27,9 @@ dimwishlist:item=-2708806099&perks=
 
 //Come to Pass
 dimwishlist:item=-927567426&perks=
+
+//Cruoris FR4
+dimwishlist:item=-891996636&perks=
 
 //DEADHORSE 04
 dimwishlist:item=-822872238&perks=
@@ -43,8 +61,14 @@ dimwishlist:item=-3257091166&perks=
 //Inbound Surveillance
 dimwishlist:item=-2776506837&perks=
 
+//Jararaca-3sr
+dimwishlist:item=-1851521408&perks=
+
 //Last Rite
 dimwishlist:item=-3708636616&perks=
+
+//Live Fire
+dimwishlist:item=-3612142623&perks=
 
 //Loud Lullaby
 dimwishlist:item=-868076517&perks=
@@ -70,6 +94,9 @@ dimwishlist:item=-4108648762&perks=
 //Pointed Inquiry
 dimwishlist:item=-297296830&perks=
 
+//Prolonged Engagement
+dimwishlist:item=-2624561525&perks=
+
 //Reckless Endangerment
 dimwishlist:item=-3085559077&perks=
 
@@ -85,6 +112,9 @@ dimwishlist:item=-3442151842&perks=
 //Round Robin
 dimwishlist:item=-2034215657&perks=
 
+//Senuna SI6
+dimwishlist:item=-5159537&perks=
+
 //Sleepless
 dimwishlist:item=-1738552769&perks=
 
@@ -97,8 +127,14 @@ dimwishlist:item=-771811870&perks=
 //Subzero Salvo
 dimwishlist:item=-978122008&perks=
 
+//Suspectum-4fr
+dimwishlist:item=-3615421669&perks=
+
 //Synchronic Roulette
 dimwishlist:item=-3752860091&perks=
+
+//TAHOMA 01
+dimwishlist:item=-1225851434&perks=
 
 //Tarnation
 dimwishlist:item=-2721157927&perks=
@@ -117,3 +153,6 @@ dimwishlist:item=-2863808104&perks=
 
 //Wolftone Draw
 dimwishlist:item=-3472875143&perks=
+
+//Zealot's Reward
+dimwishlist:item=-2209003210&perks=
