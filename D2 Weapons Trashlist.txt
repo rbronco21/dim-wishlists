@@ -1,6 +1,9 @@
 title:Rick's Weapons Trashlist
 description:Weapons to destroy on sight.
 
+//Action Item
+dimwishlist:item=-437854388&perks=
+
 //Afterlight
 dimwishlist:item=-1834313033&perks=
 
@@ -13,8 +16,14 @@ dimwishlist:item=-38064944&perks=
 //Arsenic Bite-4b
 dimwishlist:item=-720351795&perks=
 
+//Ascendancy
+dimwishlist:item=-1713388226&perks=
+
 //Aurora Dawn
 dimwishlist:item=-2111625436&perks=
+
+//Autumn Wind
+dimwishlist:item=-2150012407&perks=
 
 //Blasphemer
 dimwishlist:item=-2527058297&perks=
@@ -25,8 +34,17 @@ dimwishlist:item=-1529367715&perks=
 //BxR-55 Battler
 dimwishlist:item=-2708806099&perks=
 
+//Chroma Rush
+dimwishlist:item=-771811871&perks=
+
 //Come to Pass
 dimwishlist:item=-927567426&perks=
+
+//Convened Recurve
+dimwishlist:item=-3667861447&perks=
+
+//Coriolis Force
+dimwishlist:item=-856316142&perks=
 
 //Cruoris FR4
 dimwishlist:item=-891996636&perks=
@@ -58,11 +76,17 @@ dimwishlist:item=-2993995118&perks=
 //Half-Truths
 dimwishlist:item=-3257091166&perks=
 
+//Horror's Least
+dimwishlist:item=-827835657&perks=
+
 //Inbound Surveillance
 dimwishlist:item=-2776506837&perks=
 
 //Jararaca-3sr
 dimwishlist:item=-1851521408&perks=
+
+//King Orfeo
+dimwishlist:item=-3481382332&perks=
 
 //Last Rite
 dimwishlist:item=-3708636616&perks=
@@ -74,13 +98,21 @@ dimwishlist:item=-3612142623&perks=
 dimwishlist:item=-868076517&perks=
 
 //Main Ingredient
+dimwishlist:item=-2901221332&perks=
 dimwishlist:item=-4046741099&perks=
 
 //Marsilion-C
 dimwishlist:item=-867154247&perks=
 
+//Micromort
+dimwishlist:item=-474671201&perks=
+
 //Nameless Midnight
+dimwishlist:item=-1957301533&perks=
 dimwishlist:item=-3470514298&perks=
+
+//Nightshade
+dimwishlist:item=-34731066&perks=
 
 //Nox Perennial V
 dimwishlist:item=-2366022261&perks=
@@ -114,6 +146,9 @@ dimwishlist:item=-2034215657&perks=
 
 //Senuna SI6
 dimwishlist:item=-5159537&perks=
+
+//Sixth Sense
+dimwishlist:item=-3163473092&perks=
 
 //Sleepless
 dimwishlist:item=-1738552769&perks=
